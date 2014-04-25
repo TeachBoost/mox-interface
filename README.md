@@ -1,3 +1,3 @@
-# Mox Controller
+# Mox Interface
 
-Controller module within the Mox system.
+Interface module within the Mox system.
