@@ -1,10 +1,10 @@
 {
     "name": "mox-interface",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Interface module within the Mox system",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "mocha"
     },
     "repository": {
         "type": "git",
@@ -18,5 +18,9 @@
     "homepage": "https://github.com/TeachBoost/mox-interface",
     "dependencies": {
         "stapes" : "*"
+    },
+    "devDependencies": {
+        "mocha" : "*",
+        "chai" : "*"
     }
 }
