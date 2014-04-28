@@ -8,7 +8,7 @@ var chai = require( 'chai' ),
 
 describe( 'Interface', function () {
 
-    it( 'interface should be a function', function () {
+    it( 'should be a function', function () {
         expect( Interface )
             .to.be.a( 'function' );
     });
