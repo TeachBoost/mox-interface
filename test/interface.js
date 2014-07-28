@@ -2,9 +2,9 @@
  * Test the interface module
  */
 
-var chai = require( 'chai' ),
-    expect = chai.expect,
-    Interface = require( '../' );
+var chai = require( 'chai' )
+  , expect = chai.expect
+  , Interface = require( '../' );
 
 describe( 'Interface', function () {
 
